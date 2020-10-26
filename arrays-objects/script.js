@@ -10,4 +10,4 @@ genesNew.splice(3,1);
 
 genesNew.unshift("FXT")
 
-console.log(genesNew);
+console.log(genesNew)
